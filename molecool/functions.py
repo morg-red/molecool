@@ -23,7 +23,7 @@ def canvas(with_attribution=True):
         Compiled string including quote and optional attribution
     """
 
-    quote = "Let each man march to the beat of his own drum, however measured or far away.""
+    quote = "Let each man march to the beat of his own drum, however measured or far away."
     if with_attribution:
         quote += "\n\t- Adapted from Henry David Thoreau"
     return quote
