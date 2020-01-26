@@ -15,5 +15,5 @@ dependencies:
   - matplotlib
 
     # Pip-only installs
-  #  - pip:
+  #- pip:
   #  - codecov
